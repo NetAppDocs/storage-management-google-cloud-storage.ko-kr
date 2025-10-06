@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-viewing-gcp-storage.html 
 keywords: google cloud storage buckets, google cloud storage, google cloud storage working environment, system 
-summary: Google Cloud에 콘솔 에이전트를 설치하면 NetApp 콘솔은 콘솔 에이전트가 설치된 Google 계정에 있는 Google Cloud 버킷에 대한 정보를 자동으로 검색할 수 있습니다.  NetApp 콘솔에 Google Cloud Storage 시스템이 추가되어 이 정보를 볼 수 있습니다. 
+summary: Google Cloud에 콘솔 에이전트를 설치하면 NetApp Console 콘솔 에이전트가 설치된 Google 계정에 있는 Google Cloud 버킷에 대한 정보를 자동으로 검색할 수 있습니다.  NetApp Console 에 Google Cloud Storage 시스템이 추가되어 이 정보를 볼 수 있습니다. 
 ---
 = Google Cloud Storage 버킷 보기
 :hardbreaks:
@@ -14,22 +14,22 @@ summary: Google Cloud에 콘솔 에이전트를 설치하면 NetApp 콘솔은 �
 
 
 [role="lead"]
-Google Cloud에 콘솔 에이전트를 설치하면 NetApp 콘솔은 콘솔 에이전트가 설치된 Google 계정에 있는 Google Cloud Storage 버킷에 대한 정보를 자동으로 검색할 수 있습니다.  이 정보를 볼 수 있도록 Google Cloud Storage 시스템이 콘솔에 추가되었습니다.
+Google Cloud에 콘솔 에이전트를 설치하면 NetApp Console 콘솔 에이전트가 설치된 Google 계정에 있는 Google Cloud Storage 버킷에 대한 정보를 자동으로 검색할 수 있습니다.  이 정보를 볼 수 있도록 Google Cloud Storage 시스템이 콘솔에 추가되었습니다.
 
-Google Cloud Storage 버킷에 대한 세부 정보(위치, 액세스 상태, 스토리지 클래스, 총 용량 및 사용 용량 등)를 볼 수 있습니다.  이러한 버킷은 NetApp 백업 및 복구, NetApp 클라우드 계층화 또는 NetApp 복사 및 동기화 작업의 대상으로 사용할 수 있습니다.
+Google Cloud Storage 버킷에 대한 세부 정보(위치, 액세스 상태, 스토리지 클래스, 총 용량 및 사용 용량 등)를 볼 수 있습니다.  이러한 버킷은 NetApp Backup and Recovery, NetApp Cloud Tiering 또는 NetApp Copy and Sync 작업의 대상으로 사용할 수 있습니다.
 
 .단계
 . https://docs.netapp.com/us-en/console-setup-admin/task-quick-start-connector-google.html["콘솔 에이전트 설치"^]Google Cloud Storage 버킷을 보려는 Google 계정에서.
-. NetApp 콘솔 메뉴에서 *스토리지*를 선택한 다음 *관리*를 선택합니다.
+. NetApp Console 메뉴에서 *스토리지*를 선택한 다음 *관리*를 선택합니다.
 
 
 곧 Google Cloud Storage 시스템이 자동으로 표시됩니다.
 
 image:screenshot-gcp-cloud-storage-we.png["Google Cloud Storage 시스템의 스크린샷."]
 
-. Google Cloud Storage에서 NetApp 콘솔 서비스를 활성화하려면 시스템을 선택하고 오른쪽 창에서 작업을 선택하세요.
+. Google Cloud Storage에서 NetApp Console 서비스를 활성화하려면 시스템을 선택하고 오른쪽 창에서 작업을 선택하세요.
 +
-link:task-gcp-enable-data-services.html["사용 가능한 NetApp 콘솔 서비스를 확인하고 Google Cloud Storage 버킷과 함께 사용하는 방법을 알아보세요."] .
+link:task-gcp-enable-data-services.html["사용 가능한 NetApp Console 서비스를 확인하고 Google Cloud Storage 버킷과 함께 사용하는 방법을 알아보세요."] .
 
 . Google 계정의 버킷에 대한 세부 정보를 보려면 *시스템 입력*을 선택하거나 시스템을 두 번 클릭하세요.
 +

@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-change-gcp-bucket-settings.html 
 keywords: google cloud storage buckets, google cloud storage, edit buckets, change buckets 
-summary: Google Cloud Storage 시스템을 시스템 페이지에서 사용할 수 있는 경우 NetApp 콘솔에서 일부 버킷 속성을 직접 변경할 수 있습니다. 
+summary: Google Cloud Storage 시스템을 시스템 페이지에서 사용할 수 있는 경우 NetApp Console 에서 일부 버킷 속성을 직접 변경할 수 있습니다. 
 ---
 = Google Cloud Storage 버킷 설정 변경
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: Google Cloud Storage 시스템을 시스템 페이지에서 사용할 �
 
 
 [role="lead"]
-Google Cloud Storage 시스템을 시스템 페이지에서 사용할 수 있는 경우 NetApp 콘솔에서 일부 버킷 속성을 직접 변경할 수 있습니다.
+Google Cloud Storage 시스템을 시스템 페이지에서 사용할 수 있는 경우 NetApp Console 에서 일부 버킷 속성을 직접 변경할 수 있습니다.
 
 버킷 이름, Google 프로젝트 또는 보호 설정은 변경할 수 없습니다.
 
@@ -25,7 +25,7 @@ Google Cloud Storage 시스템을 시스템 페이지에서 사용할 수 있는
 * 터보 복제 모드 - 버킷이 이중 지역 위치에 있는 경우에만 해당됩니다.
 
 
-NetApp 콘솔에서 직접 이러한 버킷 설정을 변경할 수 있습니다.image:button-horizontal-more.gif["세 개의 점 더하기 버튼"] 그런 다음 버킷에 대한 *버킷 세부 정보 편집*을 클릭합니다.
+NetApp Console 에서 직접 이러한 버킷 설정을 변경할 수 있습니다.image:button-horizontal-more.gif["세 개의 점 더하기 버튼"] 그런 다음 버킷에 대한 *버킷 세부 정보 편집*을 클릭합니다.
 
 image:screenshot-edit-gcp-bucket.png["버킷 속성을 편집하기 위해 버킷 세부 정보 편집 버튼을 선택하는 방법을 보여주는 스크린샷입니다."]
 
