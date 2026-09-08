@@ -224,7 +224,6 @@
   <block id="e7e9f49f4584c68b9d97c578e73b7583" category="list-text">콘솔의 오른쪽 상단에서 도움말 아이콘을 선택하고 *지원*을 선택하세요.</block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">지원 등록 페이지에서 계정 ID 일련 번호를 찾으세요.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">지원이 첫 번째 옵션으로 나열된 도움말 메뉴의 스크린샷</block>
-  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp 지원 등록 사이트</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">로 이동<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> *저는 등록된 NetApp 고객이 아닙니다*를 선택하세요.</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">필수 입력란(빨간색 별표가 있는 항목)을 작성해 주세요.</block>
@@ -247,7 +246,6 @@
   <block id="5bc1315a63455544e7a917a7cc968939" category="paragraph">이러한 NSS 자격 증명은 특정 콘솔 계정 ID와 연결됩니다. 콘솔 조직에 속한 사용자는 *지원 &gt; NSS 관리*에서 이러한 자격 증명에 액세스할 수 있습니다.</block>
   <block id="328a2c1e7778e9edaf79d90c51409ac4" category="list-text">고객 수준 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있습니다.</block>
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">파트너 또는 리셀러 계정이 있는 경우 하나 이상의 NSS 계정을 추가할 수 있지만 고객 수준 계정과 함께 추가할 수는 없습니다.</block>
-  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c0e0b7ff0de9558404e9b77ece42948a" category="list-text">*NSS 관리 &gt; NSS 계정 추가*를 선택하세요.</block>
   <block id="85b9386ed443776127e099931d73448a" category="list-text">메시지가 표시되면 *계속*을 선택하여 Microsoft 로그인 페이지로 이동합니다.</block>
   <block id="d59e0b46782e48a01966e5c7ccc38d17" category="paragraph">NetApp 지원 및 라이선싱에 특화된 인증 서비스를 위한 ID 공급자로 Microsoft Entra ID를 사용합니다.</block>
@@ -259,8 +257,6 @@
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">기존 고객 수준 NSS 계정이 있고 파트너 수준 계정을 추가하려는 경우에도 마찬가지입니다.</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">로그인에 성공하면 NetApp NSS 사용자 이름을 저장합니다.</block>
   <block id="1dcb63fd55c4d22e87cb32275b8cc808" category="inline-image-macro">세 개의 수평 점으로 구성된 아이콘</block>
-  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">이는 귀하의 이메일에 매핑되는 시스템 생성 ID입니다. *NSS 관리* 페이지에서 이메일을 표시할 수 있습니다.<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
-  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">로그인 자격 증명 토큰을 새로 고쳐야 하는 경우 *자격 증명 업데이트* 옵션도 있습니다.<block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> 메뉴.</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">이 옵션을 사용하면 다시 로그인하라는 메시지가 표시됩니다. 이 계정의 토큰은 90일 후에 만료됩니다. 이에 대한 알림이 게시됩니다.</block>
   <block id="3bd7f55fd0233105eacd5464f82bb628" category="summary">Google Cloud에 콘솔 에이전트를 설치하면 NetApp Console 콘솔 에이전트가 설치된 Google 계정에 있는 Google Cloud 버킷에 대한 정보를 자동으로 검색할 수 있습니다.  NetApp Console 에 Google Cloud Storage 시스템이 추가되어 이 정보를 볼 수 있습니다.</block>
   <block id="82f74539a8232efa9fe9d44fbb820377" category="doc">Google Cloud Storage 버킷 보기</block>
@@ -301,4 +297,11 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">릴리스 노트</block>
   <block id="d32273f4c8b837bea371415ed255825c" category="sidebar">새로운 버킷 추가</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">지식과 지원</block>
+  <block id="a27e59851d89f47d2ae41efb9f1731de" category="doc">Google Cloud Storage 관련 법적 고지</block>
+  <block id="fa6d3c0b8a426a9179c6569712a53660" category="doc">Google Cloud Storage 도움말 보기</block>
+  <block id="b7a5fbf2bb6acad00dbc7c2244b6f6a3" category="doc">Google Cloud Storage 지원 등록</block>
+  <block id="38fc1b337c0ea26463916fc2913205c1" category="paragraph"><block ref="38fc1b337c0ea26463916fc2913205c1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="7019a39846e9a2c7f7a80eaba91e4a41" category="paragraph"><block ref="7019a39846e9a2c7f7a80eaba91e4a41" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1d593c3f7480ada9580d93cd753c3f93" category="paragraph">이는 시스템에서 생성된 ID로, 사용자의 이메일 주소와 연결됩니다. *NSS 관리* 페이지의 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에서 사용자의 이메일 주소를 확인할 수 있습니다.</block>
+  <block id="872eaae7deb6035c20f9bfe6deefd03d" category="list-text">로그인 자격 증명 토큰을 갱신해야 하는 경우 <block ref="5444f6f0c3983523c8933a1864b2b390" category="inline-image-macro-rx" type="image"></block> 메뉴에 *자격 증명 업데이트* 옵션이 있습니다.</block>
 </blocks>
